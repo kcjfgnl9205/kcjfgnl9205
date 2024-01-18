@@ -7,10 +7,13 @@
   </a>
 </div>
 
-### Hi there 👋
+
+
+### 👋 Hi there! I'm a junior frontend developer.
+
+
 
 ### 💪 Skills
-
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&labelColor=%23ffffff" alt="html5" />
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=CSS3&labelColor=%231572B6" alt="css" />
