@@ -1,12 +1,11 @@
 <div>
-  <a href="https://velog.io/@kcjfgnl9205/posts" _blank title="블로그 보러가기">
-    <img src="https://img.shields.io/badge/velog-%2321C393?style=flat&logo=Velog&labelColor=%23ffffff" alt="velog" />
+  <a href="https://blog-three-peach-22.vercel.app/blog" _blank title="블로그 보러가기">
+    <img src="https://img.shields.io/badge/Blog-%2347A248?style=flat&logo=GitHub%20Sponsors&labelColor=%23ffffff" alt="blog" />
   </a>
   <a href='mailto:kcjfgnl9205@gmail.com' _blank title="메일 보내기">
     <img src="https://img.shields.io/badge/kcjfgnl9205%40gmail.com-%23EA4335?style=flat&logo=gmail&labelColor=%23ffffff" alt="gmail" />
   </a>
 </div>
-
 
 
 ### 👋 Hi there! I'm a junior frontend developer.
