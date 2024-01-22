@@ -1,5 +1,5 @@
 <div>
-  <a href="https://blog-three-peach-22.vercel.app/blog" _blank title="블로그 보러가기">
+  <a href="https://blog.cheolhwi.com/blog" _blank title="블로그 보러가기">
     <img src="https://img.shields.io/badge/Blog-%2347A248?style=flat&logo=GitHub%20Sponsors&labelColor=%23ffffff" alt="blog" />
   </a>
   <a href='mailto:kcjfgnl9205@gmail.com' _blank title="메일 보내기">
